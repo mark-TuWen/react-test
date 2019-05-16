@@ -1,0 +1,19 @@
+.container{
+    background: #f8f1f1;
+}
+
+.btn-normal{
+    display: inline-block;
+    cursor: pointer;
+    margin: 20px auto;
+    width: 250px;
+    height: 45px;
+}
+
+.btn-login{
+    display: inline-block;
+    cursor: pointer;
+    margin: 5px auto;
+    width: 160px;
+    height: 45px;
+}
